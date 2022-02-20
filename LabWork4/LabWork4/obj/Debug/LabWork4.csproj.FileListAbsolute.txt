@@ -1,7 +1,0 @@
-D:\vs project\LabWork4\LabWork4\bin\Debug\LabWork4.exe.config
-D:\vs project\LabWork4\LabWork4\bin\Debug\LabWork4.exe
-D:\vs project\LabWork4\LabWork4\bin\Debug\LabWork4.pdb
-D:\vs project\LabWork4\LabWork4\obj\Debug\LabWork4.csprojAssemblyReference.cache
-D:\vs project\LabWork4\LabWork4\obj\Debug\LabWork4.csproj.CoreCompileInputs.cache
-D:\vs project\LabWork4\LabWork4\obj\Debug\LabWork4.exe
-D:\vs project\LabWork4\LabWork4\obj\Debug\LabWork4.pdb
